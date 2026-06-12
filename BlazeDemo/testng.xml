@@ -4,5 +4,5 @@
     <classes>
       <class name="base.BaseTest"/>
     </classes>
-  </test> <!-- Test -->
+  </test> 
 </suite> 
