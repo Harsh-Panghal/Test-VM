@@ -5,4 +5,4 @@
       <class name="base.BaseTest"/>
     </classes>
   </test> <!-- Test -->
-</suite> <!-- Suite -->
+</suite> 
